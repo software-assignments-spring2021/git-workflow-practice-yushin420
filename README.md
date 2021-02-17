@@ -5,5 +5,4 @@ This article is very interesting because it talks about a research conducted by 
 
 ## Comments by Hrithik (hv434)
 
-Great article. One difference that I thought of is that while computer code and programming languages have logical rules, human Language has relatively much fewer, and they are often broken. I agree that given the structured steps involved in programming, reading code is closer to following steps of solving a math problem than reading a human language
-
+Great article. One difference that I thought of is that while computer code and programming languages have logical rules, human Language has relatively much fewer, and they are often broken. I agree that given the structured steps involved in programming, reading code is closer to following steps of solving a math problem than reading a human language. On a side note, I would love to see if there was any statistic on whether multilinguals actually do better in coding controlling for other factors.
