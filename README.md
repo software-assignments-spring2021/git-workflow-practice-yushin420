@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article
+link: [To the brain, reading computer code is not the same as reading language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
+
+This article is very interesting because it talks about a research conducted by neuroscientists who concluded that reading computer code is different from learning a new language. Whenever I learned a new programming language, such as Java, Python and C, I always made an analogy to learning a different language--say, Spanish--because their syntaxes and wordings are very different from one another and we have to learn from scratch. However, in this research, it says that coding does not activate the brain regions that are involved in language processing and instead activates the multiple demand network that is responsible for cognitive task such as solving math. However, coding also activates other parts of the network than math does, so reading code does not replicate the cognitive demands of math too. As the article suggests, "Understanding computer code seems to be its own thing."
